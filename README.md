@@ -1,4 +1,4 @@
-# COVID_Vaccine_Tracker
+# COVID Vaccine Tracker
 This project was created to asses when US states would reach 80% vaccination and their overall vaccine progress.\
 The code pulls from vaccine databases as factors in State Population.\
 This was made back in March of 2021 but could see modification for future use with the COVID Delta Variant. \
